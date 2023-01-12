@@ -1,0 +1,22 @@
+<<<---FOR HOUR--->>>
+
+12 hour = 360degree
+1 hour = 360/12 degree
+for h hour = 30*h
+1 hour = 60 minutes
+60 minutes = 30 degree
+1 minutes = 30/60 = 1/2 degree
+for m minutes = m/2 degree
+for h hour = ((30*h)+(m/2))
+
+<<<---FOR MINUTES--->>>
+
+60 minutes = 360 degree
+1 minutes = 6 degree
+m minutes = 6m degree
+
+<<<---FOR SECONDS--->>>
+
+60 seconds = 360 degree
+1 seconds = 6 degree
+s seconds = 6s degree
